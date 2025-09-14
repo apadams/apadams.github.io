@@ -6,4 +6,4 @@ permalink: /about.html
 
 ## About this Site
 
-This is a collection of my research into AI, Cybersecurity, Cloud, and maybe a little cooking.
+This is a collection of my research into AI, Cybersecurity, Cloud, and whatever else I feel like adding.

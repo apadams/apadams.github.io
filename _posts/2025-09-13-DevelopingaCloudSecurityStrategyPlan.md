@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing a Cloud Security Strategy Plan
-date: 2021-05-24
+date: 2025-09-13
 category: cloud
 tags: [security]
 author: Dr. Andrew Adams
@@ -42,12 +42,12 @@ This information will change as the organization grows and require consistent up
 
 ##### Risk Assessment
 
-![APA Risk Assessment](../assets/images/risk-assessment-300x200.jpg)
+![APA Risk Assessment](/assets/images/risk-assessment-300x200.jpg)
 
 As mentioned, risk management may be a prerequisite or at least have a sense of it.  This section of the cloud security strategy plan outlines, at a high level, the asset inventory and classifications, any risks observed, what tools and methods were used, and what technologies were chosen to conduct the risk assessment.  Table 1 shows an example of an asset inventory and classifications of the assets.
 
-_**Table 1  
-**__**Risk Assessment Asset Identification and Classification**_
+**Table 1**\
+**Risk Assessment Asset Identification and Classification**
 
 <table><tbody><tr><td width="156"><strong>Asset</strong></td><td width="156"><strong>Count</strong></td><td width="156"><strong>Sensitive Information</strong></td><td width="156"><strong>Asset Classification</strong></td></tr><tr><td width="156">Desktops</td><td width="156">0</td><td width="156">N/A</td><td width="156">N/A</td></tr><tr><td width="156">Laptops</td><td width="156">500</td><td width="156">Employee Data</td><td width="156">Internal Only</td></tr><tr><td width="156">Network Printers</td><td width="156">10</td><td width="156">N/A</td><td width="156">Internal Only</td></tr><tr><td width="156">Servers (on-premise)</td><td width="156">10</td><td width="156">Security Information</td><td width="156">Internal/Confidential</td></tr><tr><td width="156">Servers (cloud)</td><td width="156">5</td><td width="156">ePHI</td><td width="156">Restricted</td></tr><tr><td width="156">Servers (cloud)</td><td width="156">5</td><td width="156">User Data</td><td width="156">Public</td></tr></tbody></table>
 
@@ -55,8 +55,8 @@ The classifications can be internal to the organization or even [NIST Data class
 
 Table 2 is an outline of what the appropriate team can do for observed risks in the environment.
 
-_**Table2  
-Risks Observed, Responsibility, Likelihood***
+**Table 2**\
+**Risks Observed, Responsibility, Likelihood**
 
 <table style="height: 239px;" width="929"><tbody><tr><td width="137"><strong>Risks</strong></td><td width="128"><strong>Who/What Might be Harmed</strong></td><td width="101"><strong>Risk Control</strong></td><td width="100"><strong>Further Action</strong></td><td width="96"><strong>Who is Responsible</strong></td><td width="103"><strong>Likelihood of Occurrence</strong></td></tr><tr><td width="137">&nbsp;</td><td width="128">&nbsp;</td><td width="101">&nbsp;</td><td width="100">&nbsp;</td><td width="96">&nbsp;</td><td width="103">&nbsp;</td></tr></tbody></table>
 
@@ -72,7 +72,7 @@ Furthermore, this section outlines the responsible parties for ensuring these po
 
 ##### Network Security
 
-![](../assets/images/network-sec-300x145.jpeg)
+![](/assets/images/network-sec-300x145.jpeg)
 
 A cloud security strategy plan would not be complete without a network security section.  While a little more tedious than the other section this area generally contains the following items:
 
@@ -85,7 +85,7 @@ A cloud security strategy plan would not be complete without a network security 
 
 ##### Incident Response, Business Continuity, and Disaster Recovery
 
-![apa cloud blog](../assets/images/disaster-300x200.jpg)
+![apa cloud blog](/assets/images/disaster-300x200.jpg)
 
 Incident Response is a response to any incident that occurs, malicious actor, compromise, or even natural disaster.  An incident response team is outlined and consists of a representative from various organizational units inside the company.
 
@@ -95,7 +95,7 @@ The cloud security strategy plan section outlines the key resources critical to 
 
 ##### Systems and Application Security
 
-![apa cloud security strategy](../assets/images/cloud-system-security-300x150.jpg)
+![apa cloud security strategy](/assets/images/cloud-system-security-300x150.jpg)
 
 The final section in this discussion is related to systems and application security.  
 

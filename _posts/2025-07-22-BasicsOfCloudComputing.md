@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basics of Cloud Computing
-date: 2021-05-24
+date: 2025-07-22
 category: cloud
 tags: [basics, beginner]
 author: Dr. Andrew Adams
@@ -52,7 +52,7 @@ Not only does the cloud service provider measure the service usage for their res
 
 ## What are the Different Service Models?
 
-![cloud computing service models](../assets/images/computing-service-models-300x203.jpg)
+![cloud computing service models](/assets/images/computing-service-models-300x203.jpg)
 
 There are different cloud computing models available depending on your need.  The three most common models are IaaS (Infrastructure-as-a-Service), PaaS (Platform-as-a-Service), and SaaS (Software-as-a-Service).  Many organizations choose to use all three models and this is not uncommon.  However, there may be some confusion on which is which and what's included.
 
@@ -70,7 +70,7 @@ SaaS services are full applications with all the complexities of any larger soft
 
 ## What are the Different Deployment Models?
 
-![cloud deployment](../assets/images/cloud-deployment-models-300x151.jpg)
+![cloud deployment](/assets/images/cloud-deployment-models-300x151.jpg)
 
 There are 4 different deployment models available to cloud consumers.  Depending on the size of the organization, many enterprise-level cloud environments will be either public or hybrid in their deployment type.  The four models are **public cloud, hybrid cloud, private cloud,** and **community cloud.**
 
