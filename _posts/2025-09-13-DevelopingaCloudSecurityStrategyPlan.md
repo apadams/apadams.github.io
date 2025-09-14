@@ -4,8 +4,10 @@ title: Developing a Cloud Security Strategy Plan
 date: 2025-09-13
 category: cloud
 tags: [security]
-author: Dr. Andrew Adams
+author: Dr. APA
 ---
+* Table of Contents
+{:toc}
 
 With the rise of cloud computing technologies, cloud security needs to be at the forefront of discussions.  Public cloud service end-user spending is expected to grow 23.1% by the end of 2021 totaling $332.3 billion.  The pandemic has created an immediate need for virtual workers and cloud resources to be able to support this influx.  Organizations need a clear path forward and documentation, such as a cloud security strategy plan, to assist in adopting and incorporating new technologies.
 

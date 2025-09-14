@@ -4,8 +4,10 @@ title: Basics of Cloud Computing
 date: 2025-07-22
 category: cloud
 tags: [basics, beginner]
-author: Dr. Andrew Adams
+author: Dr. APA
 ---
+* Table of Contents 
+{:toc}
 
 Cloud computing has been a hot topic for several years now. Many organizations have already made the switch from on-premise infrastructure to either a hybrid cloud approach or full cloud adoption.  However, most individuals coming into the cloud space have limited to no knowledge and with all of the information out there, it can be hard to know where to start.  The questions we intend on answering in this post are:
 
