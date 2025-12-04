@@ -1,10 +1,10 @@
 title: Doctor APA
 email: ""
-description: >- 
+description: >-
   Cybersecurity, development, and solutions for the modern world.
 baseurl: ""
 url: "https://apadams.github.io"
-github_username:  apadams
+github_username: apadams
 
 # Theme Settings
 remote_theme: pages-themes/hacker@v0.2.0
@@ -31,3 +31,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+kramdown:
+  toc_levels: 1..3
