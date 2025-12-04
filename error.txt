@@ -1,0 +1,14 @@
+Configuration file: /Users/apa/IdeaProjects/apadams.github.io/_config.yml
+            Source: /Users/apa/IdeaProjects/apadams.github.io
+       Destination: /Users/apa/IdeaProjects/apadams.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/hacker
+jekyll 3.10.0 | Error:  SSL_connect returned=1 errno=0 peeraddr=140.82.113.10:443 state=error: certificate verify failed (unable to get certificate CRL)
+Configuration file: /Users/apa/IdeaProjects/apadams.github.io/_config.yml
+            Source: /Users/apa/IdeaProjects/apadams.github.io
+       Destination: /Users/apa/IdeaProjects/apadams.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/hacker
+jekyll 3.10.0 | Error:  SSL_connect returned=1 errno=0 peeraddr=140.82.113.10:443 state=error: certificate verify failed (unable to get certificate CRL)
