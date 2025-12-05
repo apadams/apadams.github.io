@@ -14,3 +14,75 @@ nav a {
     text-decoration: none;
     color: #00ff00;
 }
+
+.post-title:before {
+    content: none !important;
+}
+
+.post-header {
+    background: none !important;
+    border-bottom: none !important;
+    padding: 0 !important;
+    margin-bottom: 20px !important;
+}
+
+
+/* Homepage Layout */
+.home-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-bottom: 40px;
+}
+
+.home-content {
+    flex: 2;
+    min-width: 300px;
+}
+
+.home-sidebar {
+    flex: 1;
+    min-width: 250px;
+    padding-left: 20px;
+    border-left: 1px dashed #00ff00;
+}
+
+.home-sidebar h3 {
+    margin-top: 0;
+    color: #00ff00;
+}
+
+.home-sidebar .post-list {
+    list-style: none;
+    padding: 0;
+}
+
+.home-sidebar .post-list li {
+    margin-bottom: 15px;
+    list-style-image: none;
+}
+
+.home-sidebar .post-meta {
+    display: block;
+    font-size: 0.85em;
+    color: #666;
+}
+
+.home-footer {
+    margin-top: 60px;
+    border-top: 1px dashed #00ff00;
+    padding-top: 20px;
+}
+
+@media (max-width: 768px) {
+    .home-container {
+        flex-direction: column;
+    }
+
+    .home-sidebar {
+        padding-left: 0;
+        border-left: none;
+        border-top: 1px dashed #00ff00;
+        padding-top: 20px;
+    }
+}
