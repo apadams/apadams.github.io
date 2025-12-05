@@ -15,6 +15,11 @@ nav a {
     color: #00ff00;
 }
 
+.nav-separator {
+    color: #00ff00;
+    margin: 0 5px;
+}
+
 .post-title:before {
     content: none !important;
 }

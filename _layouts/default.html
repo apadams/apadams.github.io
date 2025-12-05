@@ -24,7 +24,11 @@
             <nav>
                 <ul>
                     {% for item in site.data.home_navigation %}
-                    <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+                        {% if item.separator %}
+                        <li class="nav-separator">|</li>
+                        {% else %}
+                        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></li>
+                        {% endif %}
                     {% endfor %}
                 </ul>
             </nav>

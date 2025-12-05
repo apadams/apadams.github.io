@@ -4,6 +4,8 @@
   url: /blog
 - name: About
   url: /about
-- name: Github
+- separator: true
+- name: Github - Personal
   url: https://github.com/apadams
-
+- name: Github - Tobiwan Solutions
+  url: https://github.com/Tobiwan-Cloud-Solutions
